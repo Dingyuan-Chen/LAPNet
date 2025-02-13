@@ -1,5 +1,7 @@
 ### Layout-Anchored Prioritizing Continual Learning for Continuous Building Footprint Extraction From High-Resolution Remote Sensing Imagery
 
+![](imgs/framework.png)
+
 The repo is based on [avalanche](https://github.com/ContinualAI/avalanche).
 
 ### Introduction
