@@ -36,3 +36,13 @@ bash scripts/test_segm.sh
   year={2023},
   publisher={Elsevier}
 }
+@article{chen2025layout,
+  author={Chen, Dingyuan and Song, Zhaohui and Ma, Ailong and Zhong, Yanfei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Layout-Anchored Prioritizing Continual Learning for Continuous Building Footprint Extraction From High-Resolution Remote Sensing Imagery}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2025.3542974}
+}
